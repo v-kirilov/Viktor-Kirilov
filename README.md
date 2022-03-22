@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-wave Hi, I’m @v-kirilov
-eyes I’m interested in coding
-seedling I’m currently learning C#
-revolving_hearts I’m looking to collaborate on ...
-mailbox How to reach me v_kirilov@protonmail.ch
