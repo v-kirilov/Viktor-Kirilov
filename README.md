@@ -1,18 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C#
 - - 📫 How to reach me: v_kirilov87@protonmail.ch
+<br>
 
-<!--
-**v-kirilov/v-kirilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=v-kirilov&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-kirilov&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on learning
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: v_kirilov87@protonmail.ch
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
+<br>
+<br>
