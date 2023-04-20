@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently working as a Junior .NET Developer.
 - - 📫 How to reach me: v_kirilov87@protonmail.ch
 <br>
 
